@@ -1,6 +1,13 @@
+import argparse
 from lxml import etree
 
-tree = etree.parse('samples/iTunes Music Library.xml')
+parser = argparse.ArgumentParser(description='Parse iTunes XML file output by MusicBee for use in Traktor')
+parser.add_argument('file', nargs='?', default='C:/Users/mowgli/Music/MusicBee/iTunes Music Library.xml')
+parser.add_argument('output', nargs='?', default='C:/Users/mowgli/Music/MusicBee/iTunes Music Library.reformatted.xml')
+args = parser.parse_args()
+
+with open(args.file, mode='r', encoding='UTF-8') as xmlFile:
+	tree = etree.parse(xmlFile)
 root = tree.getroot()
 
 main = root.find('dict')
@@ -70,5 +77,5 @@ for playlist in playlists:
 
 
 # Write new XML to file
-with open('./samples/output.xml', 'wb+') as f:
-	f.write(etree.tostring(tree, pretty_print=True))
+with open(args.output, 'wb+') as f:
+	f.write(etree.tostring(tree, encoding='UTF-8', pretty_print=True))
