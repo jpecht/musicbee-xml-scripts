@@ -1,0 +1,1178 @@
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>3.3.7267.37332</string>
+	<key>Music Folder</key><string>file://localhost/C:/Users/mowgli/Music/Test/Test/</string>
+	<key>Library Persistent ID</key><string>42295079D79ABAC2</string>
+	<key>Tracks</key>
+	<dict>
+		<key>30679</key>
+		<dict>
+			<key>Track ID</key><integer>30679</integer>
+			<key>Encoder</key><string>Lavc57.89</string>
+			<key>Comments</key><string>9A</string>
+			<key>BPM</key><integer>120</integer>
+			<key>Name</key><string>Do You Believe In God?</string>
+			<key>Artist</key><string>$uicideboy$</string>
+			<key>Genre</key><string>Shadow Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4902097</integer>
+			<key>Total Time</key><integer>118154</integer>
+			<key>Date Modified</key><date>2019-11-13T03:05:08Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:33Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>BA890A91C043745F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/$uicideboy$/Do%20You%20Believe%20In%20God%20.mp3</string>
+		</dict>
+		<key>30681</key>
+		<dict>
+			<key>Track ID</key><integer>30681</integer>
+			<key>Encoder</key><string>Lavc57.89</string>
+			<key>BPM</key><integer>150</integer>
+			<key>Name</key><string>Carrollton</string>
+			<key>Artist</key><string>$uicideboy$</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8351773</integer>
+			<key>Total Time</key><integer>205299</integer>
+			<key>Date Modified</key><date>2019-11-13T03:05:08Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:33Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>BA890A91A68E39AD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/$uicideboy$/Carrollton.mp3</string>
+		</dict>
+		<key>30683</key>
+		<dict>
+			<key>Track ID</key><integer>30683</integer>
+			<key>Encoder</key><string>Lavc57.89</string>
+			<key>Comments</key><string>2A</string>
+			<key>BPM</key><integer>150</integer>
+			<key>Name</key><string>Ice Cold</string>
+			<key>Artist</key><string>4B</string>
+			<key>Genre</key><string>Dance &amp; EDM</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7555053</integer>
+			<key>Total Time</key><integer>185681</integer>
+			<key>Date Modified</key><date>2019-11-13T03:05:08Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>4F686DF62BAF208A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/4B/Ice%20Cold.mp3</string>
+		</dict>
+		<key>30685</key>
+		<dict>
+			<key>Track ID</key><integer>30685</integer>
+			<key>Encoder</key><string>Lavc58.35</string>
+			<key>Comments</key><string>7A</string>
+			<key>BPM</key><integer>150</integer>
+			<key>Name</key><string>Told You</string>
+			<key>Artist</key><string>4B</string>
+			<key>Year</key><integer>2019</integer>
+			<key>Genre</key><string>Dance &amp; EDM</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5424522</integer>
+			<key>Total Time</key><integer>220948</integer>
+			<key>Date Modified</key><date>2019-11-29T17:04:55Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>4F686DF6C33661EF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/4B/Told%20You.mp3</string>
+		</dict>
+		<key>30687</key>
+		<dict>
+			<key>Track ID</key><integer>30687</integer>
+			<key>Encoder</key><string>Lavf54.20.4</string>
+			<key>Comments</key><string>8B</string>
+			<key>BPM</key><integer>138</integer>
+			<key>Name</key><string>Naked</string>
+			<key>Artist</key><string>Henrik the Artist</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3416769</integer>
+			<key>Total Time</key><integer>212278</integer>
+			<key>Date Modified</key><date>2019-11-16T02:06:00Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>13E5601C5F4128C6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/Henrik%20the%20Artist/Naked.mp3</string>
+		</dict>
+		<key>30689</key>
+		<dict>
+			<key>Track ID</key><integer>30689</integer>
+			<key>Encoder</key><string>Lavc56.60</string>
+			<key>Comments</key><string>4A</string>
+			<key>BPM</key><integer>135</integer>
+			<key>Name</key><string>Peddi Max</string>
+			<key>Artist</key><string>Henrik the Artist</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8718642</integer>
+			<key>Total Time</key><integer>214755</integer>
+			<key>Date Modified</key><date>2019-11-16T02:06:00Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>13E5601C81EE8598</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/Henrik%20the%20Artist/Peddi%20Max.mp3</string>
+		</dict>
+		<key>30691</key>
+		<dict>
+			<key>Track ID</key><integer>30691</integer>
+			<key>Encoder</key><string>Lame3.99</string>
+			<key>BPM</key><integer>140</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Name</key><string>Always</string>
+			<key>Artist</key><string>RL Grime</string>
+			<key>Album</key><string>Void</string>
+			<key>Year</key><string>1/1/2014</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9933139</integer>
+			<key>Total Time</key><integer>247774</integer>
+			<key>Date Modified</key><date>2019-11-16T02:07:00Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E242EF7166CBEE6A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/RL%20Grime/Always.mp3</string>
+		</dict>
+		<key>30693</key>
+		<dict>
+			<key>Track ID</key><integer>30693</integer>
+			<key>Encoder</key><string>Lavc57.89</string>
+			<key>Track Count</key><integer>15</integer>
+			<key>BPM</key><integer>128</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Name</key><string>Atoms</string>
+			<key>Artist</key><string>RL Grime</string>
+			<key>Album Artist</key><string>RL Grime</string>
+			<key>Album</key><string>Nova</string>
+			<key>Genre</key><string>NOVA</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9271226</integer>
+			<key>Total Time</key><integer>228835</integer>
+			<key>Date Modified</key><date>2019-11-16T02:06:59Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E242EF715EC81B2D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/RL%20Grime/Atoms.mp3</string>
+		</dict>
+		<key>30695</key>
+		<dict>
+			<key>Track ID</key><integer>30695</integer>
+			<key>Encoder</key><string>Lavf53.32.100</string>
+			<key>Sort Title</key><string>Core (Djemba's Selassie Bootleg)</string>
+			<key>Sort Artist</key><string>RL Grime</string>
+			<key>BPM</key><integer>160</integer>
+			<key>Name</key><string>Core (Djemba's Selassie Bootleg)</string>
+			<key>Artist</key><string>RL Grime</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3442845</integer>
+			<key>Total Time</key><integer>213786</integer>
+			<key>Date Modified</key><date>2019-11-16T02:06:59Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E242EF7125E6269B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/RL%20Grime/Core%20(Djemba's%20Selassie%20Bootleg).mp3</string>
+		</dict>
+		<key>30697</key>
+		<dict>
+			<key>Track ID</key><integer>30697</integer>
+			<key>Encoder</key><string>Lame3.99</string>
+			<key>BPM</key><integer>150</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Name</key><string>Core (Original Mix)</string>
+			<key>Artist</key><string>RL Grime</string>
+			<key>Album</key><string>Void</string>
+			<key>Year</key><string>1/1/2014</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9495325</integer>
+			<key>Total Time</key><integer>236855</integer>
+			<key>Date Modified</key><date>2019-11-16T02:07:00Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E242EF71E75EE9C0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/RL%20Grime/Core%20(Original%20Mix).mp3</string>
+		</dict>
+		<key>30699</key>
+		<dict>
+			<key>Track ID</key><integer>30699</integer>
+			<key>Encoder</key><string>Lavc56.26</string>
+			<key>BPM</key><integer>97</integer>
+			<key>Name</key><string>Core (TRAILS Flip)</string>
+			<key>Artist</key><string>RL Grime</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4777099</integer>
+			<key>Total Time</key><integer>116378</integer>
+			<key>Date Modified</key><date>2019-11-16T02:06:59Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E242EF71FC6CDD11</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/RL%20Grime/Core%20(TRAILS%20Flip).mp3</string>
+		</dict>
+		<key>30701</key>
+		<dict>
+			<key>Track ID</key><integer>30701</integer>
+			<key>Encoder</key><string>Lavf53.32.100</string>
+			<key>BPM</key><integer>150</integer>
+			<key>Name</key><string>Core</string>
+			<key>Artist</key><string>RL Grime</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3815742</integer>
+			<key>Total Time</key><integer>237165</integer>
+			<key>Date Modified</key><date>2019-11-16T02:06:59Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E242EF714897561B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/RL%20Grime/Core.mp3</string>
+		</dict>
+		<key>30703</key>
+		<dict>
+			<key>Track ID</key><integer>30703</integer>
+			<key>Encoder</key><string>Lame3.99</string>
+			<key>BPM</key><integer>135</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Name</key><string>Danger</string>
+			<key>Artist</key><string>RL Grime</string>
+			<key>Album</key><string>Void</string>
+			<key>Year</key><string>1/1/2014</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9486773</integer>
+			<key>Total Time</key><integer>236515</integer>
+			<key>Date Modified</key><date>2019-11-16T02:07:00Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E242EF7181915DAE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/RL%20Grime/Danger.mp3</string>
+		</dict>
+		<key>30705</key>
+		<dict>
+			<key>Track ID</key><integer>30705</integer>
+			<key>Encoder</key><string>Lavf53.32.100</string>
+			<key>BPM</key><integer>140</integer>
+			<key>Name</key><string>Die 4 Me</string>
+			<key>Artist</key><string>RL Grime</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4587155</integer>
+			<key>Total Time</key><integer>285048</integer>
+			<key>Date Modified</key><date>2019-11-16T02:06:59Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E242EF717B3C2949</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/RL%20Grime/Die%204%20Me.mp3</string>
+		</dict>
+		<key>30707</key>
+		<dict>
+			<key>Track ID</key><integer>30707</integer>
+			<key>Encoder</key><string>Lavc57.89</string>
+			<key>BPM</key><integer>155</integer>
+			<key>Name</key><string>Era (1788-L Remix)</string>
+			<key>Artist</key><string>RL Grime</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9060442</integer>
+			<key>Total Time</key><integer>223062</integer>
+			<key>Date Modified</key><date>2019-11-16T02:06:59Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E242EF7166262C7C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/RL%20Grime/Era%20(1788-L%20Remix).mp3</string>
+		</dict>
+		<key>30709</key>
+		<dict>
+			<key>Track ID</key><integer>30709</integer>
+			<key>Encoder</key><string>Lavc57.89</string>
+			<key>Track Count</key><integer>15</integer>
+			<key>BPM</key><integer>150</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Name</key><string>Era</string>
+			<key>Artist</key><string>RL Grime</string>
+			<key>Album Artist</key><string>RL Grime</string>
+			<key>Album</key><string>Nova</string>
+			<key>Genre</key><string>NOVA</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10132489</integer>
+			<key>Total Time</key><integer>249681</integer>
+			<key>Date Modified</key><date>2019-11-16T02:06:59Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E242EF7114F4DCA0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/RL%20Grime/Era.mp3</string>
+		</dict>
+		<key>30711</key>
+		<dict>
+			<key>Track ID</key><integer>30711</integer>
+			<key>Encoder</key><string>Lavc57.89</string>
+			<key>Track Count</key><integer>15</integer>
+			<key>BPM</key><integer>156</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Name</key><string>Feel Free</string>
+			<key>Artist</key><string>RL Grime</string>
+			<key>Album Artist</key><string>RL Grime</string>
+			<key>Album</key><string>Nova</string>
+			<key>Genre</key><string>NOVA</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10220550</integer>
+			<key>Total Time</key><integer>252398</integer>
+			<key>Date Modified</key><date>2019-11-16T02:06:59Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E242EF71DC5D5E5D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/RL%20Grime/Feel%20Free.mp3</string>
+		</dict>
+		<key>30713</key>
+		<dict>
+			<key>Track ID</key><integer>30713</integer>
+			<key>BPM</key><integer>146</integer>
+			<key>Name</key><string>Flood</string>
+			<key>Artist</key><string>RL Grime</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3565926</integer>
+			<key>Total Time</key><integer>221552</integer>
+			<key>Date Modified</key><date>2019-11-16T02:06:59Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E242EF718E5EE72</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/RL%20Grime/Flood.mp3</string>
+		</dict>
+		<key>30715</key>
+		<dict>
+			<key>Track ID</key><integer>30715</integer>
+			<key>Encoder</key><string>Lame3.99</string>
+			<key>BPM</key><integer>146</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Name</key><string>Golden State</string>
+			<key>Artist</key><string>RL Grime</string>
+			<key>Album</key><string>Void</string>
+			<key>Year</key><string>1/1/2014</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10864584</integer>
+			<key>Total Time</key><integer>270945</integer>
+			<key>Date Modified</key><date>2019-11-16T02:07:00Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E242EF71AEC86267</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/RL%20Grime/Golden%20State.mp3</string>
+		</dict>
+		<key>30717</key>
+		<dict>
+			<key>Track ID</key><integer>30717</integer>
+			<key>Encoder</key><string>Lavf52.87.1</string>
+			<key>BPM</key><integer>154</integer>
+			<key>Name</key><string>Heard Me</string>
+			<key>Artist</key><string>RL Grime</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3076998</integer>
+			<key>Total Time</key><integer>191224</integer>
+			<key>Date Modified</key><date>2019-11-16T02:06:59Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E242EF71F4D1036B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/RL%20Grime/Heard%20Me.mp3</string>
+		</dict>
+		<key>30719</key>
+		<dict>
+			<key>Track ID</key><integer>30719</integer>
+			<key>Encoder</key><string>Lavc57.89</string>
+			<key>BPM</key><integer>95</integer>
+			<key>Name</key><string>I Wanna Know (Vincent Remix)</string>
+			<key>Artist</key><string>RL Grime</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8729691</integer>
+			<key>Total Time</key><integer>214834</integer>
+			<key>Date Modified</key><date>2019-11-16T02:06:59Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E242EF7137BEDA7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/RL%20Grime/I%20Wanna%20Know%20(Vincent%20Remix).mp3</string>
+		</dict>
+		<key>30721</key>
+		<dict>
+			<key>Track ID</key><integer>30721</integer>
+			<key>Encoder</key><string>Lavc57.89</string>
+			<key>Track Count</key><integer>15</integer>
+			<key>BPM</key><integer>165</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Name</key><string>I Wanna Know</string>
+			<key>Artist</key><string>RL Grime</string>
+			<key>Album Artist</key><string>RL Grime</string>
+			<key>Album</key><string>Nova</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8421571</integer>
+			<key>Total Time</key><integer>206814</integer>
+			<key>Date Modified</key><date>2019-11-16T02:06:59Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E242EF7123778D0B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/RL%20Grime/I%20Wanna%20Know.mp3</string>
+		</dict>
+		<key>30723</key>
+		<dict>
+			<key>Track ID</key><integer>30723</integer>
+			<key>Encoder</key><string>Lame3.99</string>
+			<key>BPM</key><integer>168</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Name</key><string>Julia</string>
+			<key>Artist</key><string>RL Grime</string>
+			<key>Album</key><string>Void</string>
+			<key>Year</key><string>1/1/2014</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12092453</integer>
+			<key>Total Time</key><integer>301508</integer>
+			<key>Date Modified</key><date>2019-11-16T02:07:00Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E242EF7151B91CFF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/RL%20Grime/Julia.mp3</string>
+		</dict>
+		<key>30725</key>
+		<dict>
+			<key>Track ID</key><integer>30725</integer>
+			<key>Encoder</key><string>Lavf54.20.4</string>
+			<key>BPM</key><integer>130</integer>
+			<key>Name</key><string>Kingpin (Wuki Remix)</string>
+			<key>Artist</key><string>RL Grime</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4050656</integer>
+			<key>Total Time</key><integer>251880</integer>
+			<key>Date Modified</key><date>2019-11-16T02:06:59Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E242EF7149A43FA6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/RL%20Grime/Kingpin%20(Wuki%20Remix).mp3</string>
+		</dict>
+		<key>30727</key>
+		<dict>
+			<key>Track ID</key><integer>30727</integer>
+			<key>Encoder</key><string>Lavf53.32.100</string>
+			<key>Sort Album</key><string>Void</string>
+			<key>Episode Date</key><string>2014-01-01</string>
+			<key>BPM</key><integer>116</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Name</key><string>Kingpin</string>
+			<key>Artist</key><string>RL Grime</string>
+			<key>Album</key><string>Void</string>
+			<key>Year</key><string>1/1/2014</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4011497</integer>
+			<key>Total Time</key><integer>249260</integer>
+			<key>Date Modified</key><date>2019-11-16T02:07:00Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E242EF71568DB5B3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/RL%20Grime/Kingpin.mp3</string>
+		</dict>
+		<key>30729</key>
+		<dict>
+			<key>Track ID</key><integer>30729</integer>
+			<key>Encoder</key><string>Lame3.99</string>
+			<key>BPM</key><integer>92</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Name</key><string>Let Go (Interlude)</string>
+			<key>Artist</key><string>RL Grime</string>
+			<key>Album</key><string>Void</string>
+			<key>Year</key><string>1/1/2014</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6154230</integer>
+			<key>Total Time</key><integer>153420</integer>
+			<key>Date Modified</key><date>2019-11-16T02:07:00Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E242EF715EC58F01</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/RL%20Grime/Let%20Go%20(Interlude).mp3</string>
+		</dict>
+		<key>30731</key>
+		<dict>
+			<key>Track ID</key><integer>30731</integer>
+			<key>Encoder</key><string>Lavc57.89</string>
+			<key>BPM</key><integer>150</integer>
+			<key>Name</key><string>Light Me Up (Quix Remix)</string>
+			<key>Artist</key><string>RL Grime</string>
+			<key>Genre</key><string>Trap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9903155</integer>
+			<key>Total Time</key><integer>243098</integer>
+			<key>Date Modified</key><date>2019-11-16T02:06:59Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E242EF71B251174B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/RL%20Grime/Light%20Me%20Up%20(Quix%20Remix).mp3</string>
+		</dict>
+		<key>30733</key>
+		<dict>
+			<key>Track ID</key><integer>30733</integer>
+			<key>Encoder</key><string>Lavc57.89</string>
+			<key>Track Count</key><integer>15</integer>
+			<key>BPM</key><integer>150</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Name</key><string>Light Me Up</string>
+			<key>Artist</key><string>RL Grime</string>
+			<key>Album Artist</key><string>RL Grime</string>
+			<key>Album</key><string>Nova</string>
+			<key>Genre</key><string>NOVA</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8184427</integer>
+			<key>Total Time</key><integer>201694</integer>
+			<key>Date Modified</key><date>2019-11-16T02:06:59Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E242EF71779CA876</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/RL%20Grime/Light%20Me%20Up.mp3</string>
+		</dict>
+		<key>30735</key>
+		<dict>
+			<key>Track ID</key><integer>30735</integer>
+			<key>Encoder</key><string>Lame3.99</string>
+			<key>BPM</key><integer>162</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Name</key><string>Monsoon</string>
+			<key>Artist</key><string>RL Grime</string>
+			<key>Album</key><string>Void</string>
+			<key>Year</key><string>1/1/2014</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10217675</integer>
+			<key>Total Time</key><integer>254879</integer>
+			<key>Date Modified</key><date>2019-11-16T02:07:00Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E242EF718055326D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/RL%20Grime/Monsoon.mp3</string>
+		</dict>
+		<key>30737</key>
+		<dict>
+			<key>Track ID</key><integer>30737</integer>
+			<key>Encoder</key><string>Lavc57.89</string>
+			<key>BPM</key><integer>150</integer>
+			<key>Name</key><string>OMG (MYRNE Remix)</string>
+			<key>Artist</key><string>RL Grime</string>
+			<key>Year</key><integer>2018</integer>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9515887</integer>
+			<key>Total Time</key><integer>234504</integer>
+			<key>Date Modified</key><date>2019-11-16T02:06:59Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E242EF71C367A6E4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/RL%20Grime/OMG%20(MYRNE%20Remix).mp3</string>
+		</dict>
+		<key>30739</key>
+		<dict>
+			<key>Track ID</key><integer>30739</integer>
+			<key>Encoder</key><string>Lavc57.89</string>
+			<key>Track Count</key><integer>15</integer>
+			<key>BPM</key><integer>150</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Name</key><string>OMG</string>
+			<key>Artist</key><string>RL Grime</string>
+			<key>Album Artist</key><string>RL Grime</string>
+			<key>Album</key><string>Nova</string>
+			<key>Genre</key><string>NOVA</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8058886</integer>
+			<key>Total Time</key><integer>198481</integer>
+			<key>Date Modified</key><date>2019-11-16T02:06:59Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E242EF71D2ADB90C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/RL%20Grime/OMG.mp3</string>
+		</dict>
+		<key>30741</key>
+		<dict>
+			<key>Track ID</key><integer>30741</integer>
+			<key>Encoder</key><string>Lavc57.89</string>
+			<key>BPM</key><integer>125</integer>
+			<key>Name</key><string>Pressure (Tynan Remix)</string>
+			<key>Artist</key><string>RL Grime</string>
+			<key>Genre</key><string>Trap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9512732</integer>
+			<key>Total Time</key><integer>234321</integer>
+			<key>Date Modified</key><date>2019-11-16T02:06:59Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E242EF71F57F373F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/RL%20Grime/Pressure%20(Tynan%20Remix).mp3</string>
+		</dict>
+		<key>30743</key>
+		<dict>
+			<key>Track ID</key><integer>30743</integer>
+			<key>Encoder</key><string>Lavc57.89</string>
+			<key>BPM</key><integer>126</integer>
+			<key>Name</key><string>Pressure (Valentino Khan Remix)</string>
+			<key>Artist</key><string>RL Grime</string>
+			<key>Genre</key><string>Dance &amp; EDM</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8336074</integer>
+			<key>Total Time</key><integer>203914</integer>
+			<key>Date Modified</key><date>2019-11-16T02:06:59Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E242EF71C27F8F50</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/RL%20Grime/Pressure%20(Valentino%20Khan%20Remix).mp3</string>
+		</dict>
+		<key>30745</key>
+		<dict>
+			<key>Track ID</key><integer>30745</integer>
+			<key>Encoder</key><string>Lavc57.89</string>
+			<key>Track Count</key><integer>15</integer>
+			<key>BPM</key><integer>94</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Name</key><string>Pressure</string>
+			<key>Artist</key><string>RL Grime</string>
+			<key>Album Artist</key><string>RL Grime</string>
+			<key>Album</key><string>Nova</string>
+			<key>Genre</key><string>NOVA</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8568304</integer>
+			<key>Total Time</key><integer>209452</integer>
+			<key>Date Modified</key><date>2019-11-16T02:06:59Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E242EF71EB015CEA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/RL%20Grime/Pressure.mp3</string>
+		</dict>
+		<key>30747</key>
+		<dict>
+			<key>Track ID</key><integer>30747</integer>
+			<key>Encoder</key><string>Lavc57.89</string>
+			<key>Track Count</key><integer>15</integer>
+			<key>BPM</key><integer>154</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Name</key><string>Rainer</string>
+			<key>Artist</key><string>RL Grime</string>
+			<key>Album Artist</key><string>RL Grime</string>
+			<key>Album</key><string>Nova</string>
+			<key>Genre</key><string>NOVA</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9975821</integer>
+			<key>Total Time</key><integer>246337</integer>
+			<key>Date Modified</key><date>2019-11-16T02:06:59Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E242EF71D32B6EDD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/RL%20Grime/Rainer.mp3</string>
+		</dict>
+		<key>30749</key>
+		<dict>
+			<key>Track ID</key><integer>30749</integer>
+			<key>Encoder</key><string>Lavc56.60</string>
+			<key>BPM</key><integer>150</integer>
+			<key>Name</key><string>Reims (Enschway &amp; LUUDE Flip)</string>
+			<key>Artist</key><string>RL Grime</string>
+			<key>Genre</key><string>Other</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8386095</integer>
+			<key>Total Time</key><integer>208538</integer>
+			<key>Date Modified</key><date>2019-11-16T02:06:59Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E242EF7165E5EEC7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/RL%20Grime/Reims%20(Enschway%20&amp;%20LUUDE%20Flip).mp3</string>
+		</dict>
+		<key>30751</key>
+		<dict>
+			<key>Track ID</key><integer>30751</integer>
+			<key>Encoder</key><string>Lavc56.60</string>
+			<key>Track Count</key><integer>15</integer>
+			<key>BPM</key><integer>150</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Name</key><string>Reims</string>
+			<key>Artist</key><string>RL Grime</string>
+			<key>Album Artist</key><string>RL Grime</string>
+			<key>Album</key><string>Nova</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9575543</integer>
+			<key>Total Time</key><integer>235157</integer>
+			<key>Date Modified</key><date>2019-11-16T02:06:59Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E242EF717522BE23</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/RL%20Grime/Reims.mp3</string>
+		</dict>
+		<key>30753</key>
+		<dict>
+			<key>Track ID</key><integer>30753</integer>
+			<key>Encoder</key><string>Lavf54.20.4</string>
+			<key>BPM</key><integer>114</integer>
+			<key>Name</key><string>Reminder (Jonah Baseball Remix)</string>
+			<key>Artist</key><string>RL Grime</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3622183</integer>
+			<key>Total Time</key><integer>224974</integer>
+			<key>Date Modified</key><date>2019-11-16T02:06:59Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E242EF7185975159</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/RL%20Grime/Reminder%20(Jonah%20Baseball%20Remix).mp3</string>
+		</dict>
+		<key>30755</key>
+		<dict>
+			<key>Track ID</key><integer>30755</integer>
+			<key>Encoder</key><string>Lame3.99</string>
+			<key>BPM</key><integer>114</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Name</key><string>Reminder</string>
+			<key>Artist</key><string>RL Grime</string>
+			<key>Album</key><string>Void</string>
+			<key>Year</key><string>1/1/2014</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10428059</integer>
+			<key>Total Time</key><integer>260156</integer>
+			<key>Date Modified</key><date>2019-11-16T02:07:00Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E242EF71914CBA66</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/RL%20Grime/Reminder.mp3</string>
+		</dict>
+		<key>30757</key>
+		<dict>
+			<key>Track ID</key><integer>30757</integer>
+			<key>Encoder</key><string>Lavc57.89</string>
+			<key>Track Count</key><integer>15</integer>
+			<key>BPM</key><integer>124</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Name</key><string>Run For Your Life (Interlude)</string>
+			<key>Artist</key><string>RL Grime</string>
+			<key>Album Artist</key><string>RL Grime</string>
+			<key>Album</key><string>Nova</string>
+			<key>Genre</key><string>NOVA</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5832204</integer>
+			<key>Total Time</key><integer>142866</integer>
+			<key>Date Modified</key><date>2019-11-16T02:06:59Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E242EF719CC21093</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/RL%20Grime/Run%20For%20Your%20Life%20(Interlude).mp3</string>
+		</dict>
+		<key>30759</key>
+		<dict>
+			<key>Track ID</key><integer>30759</integer>
+			<key>Encoder</key><string>Lavf54.20.4</string>
+			<key>BPM</key><integer>140</integer>
+			<key>Name</key><string>Scylla VIP</string>
+			<key>Artist</key><string>RL Grime</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4410418</integer>
+			<key>Total Time</key><integer>273875</integer>
+			<key>Date Modified</key><date>2019-11-16T02:06:59Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E242EF71314E405B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/RL%20Grime/Scylla%20VIP.mp3</string>
+		</dict>
+		<key>30761</key>
+		<dict>
+			<key>Track ID</key><integer>30761</integer>
+			<key>Encoder</key><string>Lame3.99</string>
+			<key>BPM</key><integer>140</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Name</key><string>Scylla</string>
+			<key>Artist</key><string>RL Grime</string>
+			<key>Album</key><string>Void</string>
+			<key>Year</key><string>1/1/2014</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11518860</integer>
+			<key>Total Time</key><integer>287219</integer>
+			<key>Date Modified</key><date>2019-11-16T02:07:00Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E242EF718023D105</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/RL%20Grime/Scylla.mp3</string>
+		</dict>
+		<key>30763</key>
+		<dict>
+			<key>Track ID</key><integer>30763</integer>
+			<key>Encoder</key><string>Lavc57.89</string>
+			<key>Track Count</key><integer>15</integer>
+			<key>BPM</key><integer>132</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Name</key><string>Shoulda</string>
+			<key>Artist</key><string>RL Grime</string>
+			<key>Album Artist</key><string>RL Grime</string>
+			<key>Album</key><string>Nova</string>
+			<key>Genre</key><string>NOVA</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9437392</integer>
+			<key>Total Time</key><integer>232937</integer>
+			<key>Date Modified</key><date>2019-11-16T02:06:59Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E242EF71314F74F4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/RL%20Grime/Shoulda.mp3</string>
+		</dict>
+		<key>30765</key>
+		<dict>
+			<key>Track ID</key><integer>30765</integer>
+			<key>Encoder</key><string>Lavc57.89</string>
+			<key>Track Count</key><integer>15</integer>
+			<key>BPM</key><integer>88</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Name</key><string>Shrine</string>
+			<key>Artist</key><string>RL Grime</string>
+			<key>Album Artist</key><string>RL Grime</string>
+			<key>Album</key><string>Nova</string>
+			<key>Genre</key><string>NOVA</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11471436</integer>
+			<key>Total Time</key><integer>283719</integer>
+			<key>Date Modified</key><date>2019-11-16T02:06:59Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E242EF71FBE4B71A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/RL%20Grime/Shrine.mp3</string>
+		</dict>
+		<key>30767</key>
+		<dict>
+			<key>Track ID</key><integer>30767</integer>
+			<key>Encoder</key><string>Lame3.99</string>
+			<key>BPM</key><integer>125</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Name</key><string>Site Zero / The Vault</string>
+			<key>Artist</key><string>RL Grime</string>
+			<key>Album</key><string>Void</string>
+			<key>Year</key><string>1/1/2014</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>18610288</integer>
+			<key>Total Time</key><integer>464094</integer>
+			<key>Date Modified</key><date>2019-11-16T02:07:00Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E242EF7170BB31F0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/RL%20Grime/Site%20Zero%20%20%20The%20Vault.mp3</string>
+		</dict>
+		<key>30769</key>
+		<dict>
+			<key>Track ID</key><integer>30769</integer>
+			<key>Encoder</key><string>Lavc56.60</string>
+			<key>BPM</key><integer>152</integer>
+			<key>Name</key><string>Stay For It (Convex Flip)</string>
+			<key>Artist</key><string>RL Grime</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8026973</integer>
+			<key>Total Time</key><integer>197854</integer>
+			<key>Date Modified</key><date>2019-11-16T02:06:59Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E242EF718DF48B1E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/RL%20Grime/Stay%20For%20It%20(Convex%20Flip).mp3</string>
+		</dict>
+		<key>30771</key>
+		<dict>
+			<key>Track ID</key><integer>30771</integer>
+			<key>Encoder</key><string>Lavc56.60</string>
+			<key>BPM</key><integer>144</integer>
+			<key>Name</key><string>Stay For It</string>
+			<key>Artist</key><string>RL Grime</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10456682</integer>
+			<key>Total Time</key><integer>258171</integer>
+			<key>Date Modified</key><date>2019-11-16T02:06:59Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E242EF7135899BA8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/RL%20Grime/Stay%20For%20It.mp3</string>
+		</dict>
+		<key>30773</key>
+		<dict>
+			<key>Track ID</key><integer>30773</integer>
+			<key>Encoder</key><string>Lavc57.89</string>
+			<key>Track Count</key><integer>15</integer>
+			<key>BPM</key><integer>138</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Name</key><string>Take It Away</string>
+			<key>Artist</key><string>RL Grime</string>
+			<key>Album Artist</key><string>RL Grime</string>
+			<key>Album</key><string>Nova</string>
+			<key>Genre</key><string>NOVA</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9584384</integer>
+			<key>Total Time</key><integer>236620</integer>
+			<key>Date Modified</key><date>2019-11-16T02:06:59Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E242EF71DD344426</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/RL%20Grime/Take%20It%20Away.mp3</string>
+		</dict>
+		<key>30775</key>
+		<dict>
+			<key>Track ID</key><integer>30775</integer>
+			<key>BPM</key><integer>160</integer>
+			<key>Name</key><string>Treadstone</string>
+			<key>Artist</key><string>RL Grime</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3917267</integer>
+			<key>Total Time</key><integer>243547</integer>
+			<key>Date Modified</key><date>2019-11-16T02:06:59Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E242EF714A435DEA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/RL%20Grime/Treadstone.mp3</string>
+		</dict>
+		<key>30777</key>
+		<dict>
+			<key>Track ID</key><integer>30777</integer>
+			<key>Encoder</key><string>Lavc57.89</string>
+			<key>BPM</key><integer>150</integer>
+			<key>Name</key><string>UCLA (Heimanu Remix)</string>
+			<key>Artist</key><string>RL Grime</string>
+			<key>Genre</key><string>Trap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8275880</integer>
+			<key>Total Time</key><integer>202504</integer>
+			<key>Date Modified</key><date>2019-11-16T02:07:00Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E242EF715CBD503</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/RL%20Grime/UCLA%20(Heimanu%20Remix).mp3</string>
+		</dict>
+		<key>30779</key>
+		<dict>
+			<key>Track ID</key><integer>30779</integer>
+			<key>Encoder</key><string>Lavc57.89</string>
+			<key>Track Count</key><integer>15</integer>
+			<key>BPM</key><integer>140</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Name</key><string>UCLA</string>
+			<key>Artist</key><string>RL Grime</string>
+			<key>Album Artist</key><string>RL Grime</string>
+			<key>Album</key><string>Nova</string>
+			<key>Genre</key><string>NOVA</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7799754</integer>
+			<key>Total Time</key><integer>192081</integer>
+			<key>Date Modified</key><date>2019-11-16T02:06:59Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E242EF7162AD815B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/RL%20Grime/UCLA.mp3</string>
+		</dict>
+		<key>30781</key>
+		<dict>
+			<key>Track ID</key><integer>30781</integer>
+			<key>Encoder</key><string>Lavc57.89</string>
+			<key>Track Count</key><integer>15</integer>
+			<key>BPM</key><integer>138</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Name</key><string>Undo</string>
+			<key>Artist</key><string>RL Grime</string>
+			<key>Album Artist</key><string>RL Grime</string>
+			<key>Album</key><string>Nova</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8470850</integer>
+			<key>Total Time</key><integer>208799</integer>
+			<key>Date Modified</key><date>2019-11-16T02:06:59Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E242EF71ABC00673</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/RL%20Grime/Undo.mp3</string>
+		</dict>
+		<key>30783</key>
+		<dict>
+			<key>Track ID</key><integer>30783</integer>
+			<key>Encoder</key><string>Lame3.99</string>
+			<key>BPM</key><integer>170</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Name</key><string>Valhalla</string>
+			<key>Artist</key><string>RL Grime</string>
+			<key>Album</key><string>Void</string>
+			<key>Year</key><string>1/1/2014</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9063007</integer>
+			<key>Total Time</key><integer>225962</integer>
+			<key>Date Modified</key><date>2019-11-16T02:07:00Z</date>
+			<key>Date Added</key><date>2019-11-29T17:04:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E242EF71E670DD8F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/mowgli/Music/Test/RL%20Grime/Valhalla.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Playlist ID</key><integer>30784</integer>
+			<key>Playlist Persistent ID</key><string>FB315C4F00000000</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>trap</string>
+			<array>
+			</array>
+		</dict>
+		<dict>
+			<key>Playlist ID</key><integer>30785</integer>
+			<key>Parent Persistent ID</key><string>FB315C4F00000000</string>
+			<key>Playlist Persistent ID</key><string>FB315C4F89ECEECA</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>classictrap</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>30713</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30717</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Playlist ID</key><integer>30786</integer>
+			<key>Parent Persistent ID</key><string>FB315C4F00000000</string>
+			<key>Playlist Persistent ID</key><string>FB315C4FBD137BEF</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>gangstatrap</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>30701</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Playlist ID</key><integer>30787</integer>
+			<key>Parent Persistent ID</key><string>FB315C4F00000000</string>
+			<key>Playlist Persistent ID</key><string>FB315C4F2F4D5E7B</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>newtrap</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>30685</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30707</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Playlist ID</key><integer>30788</integer>
+			<key>Playlist Persistent ID</key><string>3850082551E9287</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>ilovethissong</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>30687</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>30683</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
