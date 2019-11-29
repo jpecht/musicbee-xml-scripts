@@ -4,7 +4,7 @@ Tool to re-format the iTunes XML file that MusicBee outputs to be compatible wit
 ## Why?
 I strongly dislike iTunes. I think MusicBee is a great alternative. Unforuntately, as a DJ, using MusicBee is difficult because most modern DJ software only support iTunes when it comes to dynamically importing songs and playlists.
 
-MusicBee produces an XML file that purposely replicates the "iTunes Music Library.xml" file that iTunes produces. However, it is not perfect and when importing this with Traktor, it fails for various reason. This tool fixes this file to be compatible with Traktor.
+MusicBee produces an XML file that purposely replicates the "iTunes Music Library.xml" file that iTunes produces. However, it is not perfect and when importing this with Traktor, it fails for various reasons. This tool fixes this file to be compatible with Traktor.
 
 ## What exactly is being changed in the XML?
 The modifications being made to the XML are actually very simple:
