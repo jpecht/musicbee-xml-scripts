@@ -1,4 +1,3 @@
-from io import BytesIO
 from lxml import etree
 
 tree = etree.parse('samples/iTunes Music Library.xml')
@@ -8,6 +7,27 @@ main = root.find('dict')
 playlistsKey = next(c for c in main.findall('key') if c.text == 'Playlists')
 playlists = playlistsKey.getnext()
 
+
+# Returns an array of child track ids that are associated with the playlist folder
+def getChildTracks(id):
+	# Find playlists that have a parent ID that matches
+	trackIds = []
+	for p in playlists:
+		keys = p.findall('key')
+		parentIdKeys = [k for k in keys if k.text == 'Parent Persistent ID']
+		if (len(parentIdKeys) and parentIdKeys[0].getnext().text == id):
+			playlistItemsKeys = [k for k in keys if k.text == 'Playlist Items']
+			if (len(playlistItemsKeys) == 0):
+				break
+			valueElements = playlistItemsKeys[0].getnext().iter('integer')
+			trackIds = trackIds + list(map(lambda elem: elem.text, valueElements))
+
+	# Remove duplicates
+	trackIds = list(set(trackIds))
+	return trackIds
+
+
+# Loop through playlists and start 
 for playlist in playlists:
 	keys = playlist.findall('key')
 
@@ -24,18 +44,31 @@ for playlist in playlists:
 		# NOTE: This is assumed to be the last child element
 		del playlist[-1]
 
-		# Add "Folder" key-value element
+		# Create "Folder" key-value element
 		# e.g. <key>Folder</key><true/>
 		folderKey = etree.SubElement(playlist, 'key')
 		folderKey.text = 'Folder'
 		etree.SubElement(playlist, 'true')
 
-		# Add "Playlist Items"
+		# Create "Playlist Items" element
 		playlistItemsKey = etree.SubElement(playlist, 'key')
 		playlistItemsKey.text = 'Playlist Items'
 		playlistItems = etree.SubElement(playlist, 'array')
 
-		# TODO: Add track references to playlist items element
+		# Find playlist folder ID
+		idKey = next(k for k in keys if k.text == 'Playlist Persistent ID')
+		id = idKey.getnext().text
 
+		# Add child tracks to "Playlist Items" element
+		childTrackIds = getChildTracks(id)
+		for trackId in childTrackIds:
+			trackElement = etree.SubElement(playlistItems, 'dict')
+			trackIdKey = etree.SubElement(trackElement, 'key')
+			trackIdKey.text = 'Track ID'
+			trackIdValue = etree.SubElement(trackElement, 'integer')
+			trackIdValue.text = trackId
+
+
+# Write new XML to file
 with open('./samples/output.xml', 'wb+') as f:
 	f.write(etree.tostring(tree, pretty_print=True))
