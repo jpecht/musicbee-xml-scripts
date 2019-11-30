@@ -1,5 +1,6 @@
-# Samples folder
+# Miscellaneous
 samples/
+Scripts/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
