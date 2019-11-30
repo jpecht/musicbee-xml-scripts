@@ -9,7 +9,7 @@ MusicBee produces an XML file that purposely replicates the "iTunes Music Librar
 ## How to use it
 1. Download
 2. Run `python parser.py --dir [path/to/my/MusicBee/iTunes Music Library.xml/directory]` to create new XML file
-3. In Traktor settings, under File Management, set iTunes home directory to point to "iTunes Music Library.reformatted.xml"
+3. In Traktor settings, under File Management, set "iTunes/Music Library" to point to "iTunes Music Library.reformatted.xml"
 4. Repeat step 2 to update playlists!
 
 ## What exactly is being changed in the XML?
