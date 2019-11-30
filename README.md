@@ -18,5 +18,9 @@ The modifications being made to the XML are actually very simple:
 - For playlist folders, add the "Folder" element
 - For playlist folders, add the list of tracks that are included in all child playlists
 
+## Caveats
+- This tool was tested to work with MusicBee 3.3 and Traktor 3.2.1.
+- This has not been tested with nested folders 3+ levels deep
+
 ## Other notes
 alec.tron from the MusicBee forum already made an [iTunes XML parser](https://getmusicbee.com/forum/index.php?topic=25608.0) like this, but it did not support viewing the songs of a playlist folder in Traktor. So, this tool reverse engineers that solution and adds to it.
