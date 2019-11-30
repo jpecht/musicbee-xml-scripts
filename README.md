@@ -6,6 +6,12 @@ I strongly dislike iTunes. I think MusicBee is a great alternative. Unforuntatel
 
 MusicBee produces an XML file that purposely replicates the "iTunes Music Library.xml" file that iTunes produces. However, it is not perfect and when importing this with Traktor, it fails for various reasons. This tool fixes this file to be compatible with Traktor.
 
+## How to use it
+1. Download
+2. Run `python parser.py --dir [path/to/my/MusicBee/iTunes Music Library.xml/directory]` to create new XML file
+3. In Traktor settings, under File Management, set iTunes home directory to point to "iTunes Music Library.reformatted.xml"
+4. Repeat step 2 to update playlists!
+
 ## What exactly is being changed in the XML?
 The modifications being made to the XML are actually very simple:
 - Remove the XML prolog line (the first line of the file)
