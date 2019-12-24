@@ -1,3 +1,5 @@
+# This script parses the iTunes XML file (that is output by MusicBee) to be compatible
+# with Traktor. It also adds track info for playlist folders.
 import argparse
 from lxml import etree
 
@@ -9,6 +11,7 @@ def main():
 
 # Reads and parses XML file from inputPath and writes re-formatted XML to outputPath
 def parseFile(inputPath, outputPath):
+  print('Reading file... ' + inputPath)
   with open(inputPath, mode='r', encoding='UTF-8') as xmlFile:
     tree = etree.parse(xmlFile)
   root = tree.getroot()
@@ -37,7 +40,8 @@ def parseFile(inputPath, outputPath):
     return trackIds
 
 
-  # Loop through playlists and start 
+  # Loop through playlists and start
+  numPlaylistFolders = 0 
   for playlist in playlists:
     keys = playlist.findall('key')
 
@@ -50,6 +54,8 @@ def parseFile(inputPath, outputPath):
 
     # Determine what playlists are playlist folders
     if len([k for k in keys if k.text == 'Playlist Items']) == 0:
+      numPlaylistFolders += 1
+
       # Remove empty <array></array> element
       # NOTE: This is assumed to be the last child element
       del playlist[-1]
@@ -79,10 +85,10 @@ def parseFile(inputPath, outputPath):
         trackIdValue.text = trackId
 
   # Write new XML to file
-  print('Writing to file...')
+  print('Writing file... ' + outputPath)
   with open(outputPath, 'wb+') as f:
     f.write(etree.tostring(tree, encoding='UTF-8', pretty_print=True))
-  print('Finished! Formatted %d playlists' % len(playlists))
+  print('Finished! Formatted %d playlist folders and %d playlists' % (numPlaylistFolders, len(playlists)))
 
 if __name__ == '__main__':
   main()
