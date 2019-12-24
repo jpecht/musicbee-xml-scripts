@@ -1,6 +1,7 @@
 # This script suggests a track based on the track name
 import argparse
 import sys
+from fuzzywuzzy import fuzz
 from fuzzywuzzy import process
 from lxml import etree
 
@@ -15,12 +16,12 @@ def main():
   collection = getCollection(inputPath)
 
   track = getTrack(collection, args.searchValue)
-  trackName = getTextValueOfKey(track, 'Name')
-  trackArtist = getTextValueOfKey(track, 'Artist')
-  trackKey = getTextValueOfKey(track, 'Key')
-  trackBpm = getTextValueOfKey(track, 'BPM')
-  print('Looking for matches for "' + trackArtist + ' - ' + trackName + '"...')
-  # suggestedTracks = getSuggestedTracks(root, track)
+  print('Looking for matches for:')
+  print(getTrackDisplayValue(track))
+
+  suggestedTracks = getSuggestedTracks(collection, track)
+  for index, track in enumerate(suggestedTracks[:10]):
+    print('%d. %s' % (index + 1, getTrackDisplayValue(track)))
 
 
 # Reads XML file from inputPath
@@ -30,7 +31,6 @@ def getCollection(inputPath):
   root = tree.getroot()
   main = root.find('dict')
   return getValueOfKey(main, 'Tracks')
-
 
 # Gets the value given the key
 # e.g. <key>Track ID</key><value>5</value> will return 5 if passed in 'Track ID'
@@ -50,14 +50,38 @@ def getTextValueOfKey(dictElement, keyText):
 def getTrack(collection, searchValue):
   tracks = collection.findall('dict')
   trackValues = [getValueOfKey(t, 'Name').text for t in tracks]
-  result = process.extractOne(searchValue, trackValues)
+  result = process.extractOne(searchValue, trackValues, scorer=fuzz.token_sort_ratio)
   return next(t for t in tracks if getValueOfKey(t, 'Name').text == result[0])
 
+# Returns "Artist - Song"
+def getTrackDisplayValue(track):
+  return getTextValueOfKey(track, 'Artist') + ' - ' + getTextValueOfKey(track, 'Name')
 
-def getSuggestedTracks(root, songName):
+# Returns if key is similar
+def isSimilarKey(keyOne, keyTwo):
   # TODO
-  return True  
+  return True
 
+# Returns tracks that have the same BPM and Key of the track searched
+def getSuggestedTracks(collection, track):
+  suggestedTracks = []
+  trackId = getTextValueOfKey(track, 'Track ID')
+  trackKey = getTextValueOfKey(track, 'Key')
+  trackBpm = getTextValueOfKey(track, 'BPM')
+  for t in collection.findall('dict'):
+    # Don't include the same track
+    if (getTextValueOfKey(t, 'Track ID') == trackId):
+      continue
+
+    score = 0
+    if trackKey is not None:
+      if getTextValueOfKey(t, 'Key') == trackKey:
+        score += 1
+    if trackBpm is not None and getTextValueOfKey(t, 'BPM') == trackBpm:
+      score += 1
+    if (score == 2):
+      suggestedTracks.append(t)
+  return suggestedTracks
 
 if __name__ == '__main__':
   main()
