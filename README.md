@@ -10,9 +10,17 @@ I strongly dislike iTunes. I think MusicBee is a great alternative. Unfortunatel
 MusicBee produces an XML file that purposely replicates the "iTunes Music Library.xml" file that iTunes produces. However, it is not perfect and when importing this with Traktor, it fails for various reasons. This tool fixes this file to be compatible with Traktor.
 
 ### How to use it
-1. Run `python reformat_xml.py --dir [path/to/MusicBee/]` to create new XML file
-2. In Traktor settings, under File Management, set "iTunes/Music Library" to point to "iTunes Music Library.reformatted.xml"
-3. Repeat step 2 when playlists are updated!
+- Run `python reformat_xml.py --dir [path/to/MusicBee/]` to create new XML file
+- In Traktor settings, under File Management, set "iTunes/Music Library" to point to "iTunes Music Library.reformatted.xml"
+
+### What exactly is being changed in the XML?
+The modifications being made to the XML are actually very simple:
+- Re-order the "Name" key-value element to be the first child of the playlist element
+- For playlist folders, add the list of tracks that are included in all child playlists
+
+### Caveats
+- This tool was tested to work with MusicBee 3.4 and Traktor 3.2.1.
+- This has not been tested with nested folders 3+ levels deep
 
 ### Converting to exe file
 You can convert to an exe file with the following command (assuming you have pyinstaller installed):
@@ -20,20 +28,7 @@ You can convert to an exe file with the following command (assuming you have pyi
 pyinstaller --onefile reformat_xml.py
 ```
 
-### What exactly is being changed in the XML?
-The modifications being made to the XML are actually very simple:
-- Re-order the "Name" key-value element to be the first child of the playlist element
-- For playlist folders, add the "Folder" element
-- For playlist folders, add the list of tracks that are included in all child playlists
-
-### Caveats
-- This tool was tested to work with MusicBee 3.3 and Traktor 3.2.1.
-- This has not been tested with nested folders 3+ levels deep
-
-### Other notes
-alec.tron from the MusicBee forum already made an [iTunes XML parser](https://getmusicbee.com/forum/index.php?topic=25608.0) like this, but it did not support viewing the songs of a playlist folder in Traktor. So, this tool reverse engineers that solution and adds to it.
-
-## Track Suggestion
+## Track Suggestion Tool
 This script suggests a list of tracks to play next based on the track you provide.
 
 ### How to use it
