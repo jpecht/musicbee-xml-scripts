@@ -52,24 +52,10 @@ def parseFile(inputPath, outputPath):
     playlist.insert(0, playlist[nameKeyIndex + 1]) # Move value element
     playlist.insert(0, playlist[nameKeyIndex + 1]) # Move key element
 
-    # Determine what playlists are playlist folders
-    if len([k for k in keys if k.text == 'Playlist Items']) == 0:
+    # Determine what playlists are playlist folders (check if there are no tracks)
+    playlistItems = playlist[-1]
+    if len(playlistItems.findall('dict')) == 0:
       numPlaylistFolders += 1
-
-      # Remove empty <array></array> element
-      # NOTE: This is assumed to be the last child element
-      del playlist[-1]
-
-      # Create "Folder" key-value element
-      # e.g. <key>Folder</key><true/>
-      folderKey = etree.SubElement(playlist, 'key')
-      folderKey.text = 'Folder'
-      etree.SubElement(playlist, 'true')
-
-      # Create "Playlist Items" element
-      playlistItemsKey = etree.SubElement(playlist, 'key')
-      playlistItemsKey.text = 'Playlist Items'
-      playlistItems = etree.SubElement(playlist, 'array')
 
       # Find playlist folder ID
       idKey = next(k for k in keys if k.text == 'Playlist Persistent ID')
